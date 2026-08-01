@@ -122,7 +122,7 @@
     "stylelint": "^17.12.0",
     "stylelint-config-standard": "^40.0.0",
     "stylelint-copyright": "3.10.1",
-    "syncpack": "^14.3.1",
+    "syncpack": "^15.3.2",
     "typescript": "~6.0.3",
     "typescript-eslint": "^8.59.3",
     "vitest": "^4.0.0"
